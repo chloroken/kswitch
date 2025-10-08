@@ -17,3 +17,15 @@
 - `vim ~/.config/swhkd/swhkdrc` <-- Edit your shortcuts
 - `chmod +x ./autostart.sh`
 - Add Kswitch's `autostart.sh` to autostarting scripts
+
+### Example SWHKD config file:
+```F1
+    bash ~Documents/kswitch/switch "EVE - orthoptera"
+F2
+    bash ~/Documents/kswitch/switch "EVE - huehueahuea"
+F3
+    bash ~/Documents/kswitch/switch "EVE - arilus cristatus"
+F4
+    bash ~/Documents/kswitch/switch "EVE - RSS Scanner Probe"
+F5
+    bash ~/Documents/kswitch/switch "EVE - Satorigu"```
