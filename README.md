@@ -1,4 +1,4 @@
-# kswitch
+# kswitch - Native KDE client switching for EVE Online
 
 ### Get KSwitch:
 - `cd ~/git/`
