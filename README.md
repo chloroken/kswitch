@@ -5,8 +5,6 @@ No input delay. No nonsense. Minimizing switches with the speed of non-minimized
 ### Get KSwitch:
 - `cd ~/git/`
 - `git clone https://github.com/chloroken/kswitch`
-- `chmod +x ./autostart.sh`
-- Add `autostart.sh` to KDE Plasma's autostarting scripts
 
 ### Keybinds
 In Plasmas `System Settings` > `Shortcuts` menu, bind this script to a key:
