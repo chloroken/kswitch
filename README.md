@@ -1,33 +1,34 @@
 # kswitch
 
 ### Get KSwitch:
-- `cd ~/Documents/`
+- `cd ~/git/`
 - `git clone https://github.com/chloroken/kswitch`
 
 ### Get SWHKD (optional):
+- `cd ~/Documents/`
 - `git clone https://github.com/waycrate/swhkd;cd swhkd`
 - `make setup`
 - `make clean`
 - `make`
 - `sudo make install`
-- `sudo chown root:root swhkd` <--- Set permissions
+- `sudo chown root:root swhkd`
 - `sudo chmod u+s swhkd`
-- `swhks &` <--- Start daemon
+- `swhks &`
 - `swhkd`
-- `vim ~/.config/swhkd/swhkdrc` <-- Edit your shortcuts
+- `vim ~/.config/swhkd/swhkdrc` <-- Edit shortcuts
 - `chmod +x ./autostart.sh`
-- Add Kswitch's `autostart.sh` to autostarting scripts
+- Add Kswitch's `autostart.sh` to KDE Plasma's autostarting scripts
 
 ### Example SWHKD config file:
 ```
 F1
-    bash ~/Documents/kswitch/switch "EVE - orthoptera"
+    bash ~/git/kswitch/switch "EVE - orthoptera"
 F2
-    bash ~/Documents/kswitch/switch "EVE - huehueahuea"
+    bash ~/git/kswitch/switch "EVE - huehueahuea"
 F3
-    bash ~/Documents/kswitch/switch "EVE - arilus cristatus"
+    bash ~/git/kswitch/switch "EVE - arilus cristatus"
 F4
-    bash ~/Documents/kswitch/switch "EVE - RSS Scanner Probe"
+    bash ~/git/kswitch/switch "EVE - RSS Scanner Probe"
 F5
-    bash ~/Documents/kswitch/switch "EVE - Satorigu"
+    bash ~/git/kswitch/switch "EVE - Satorigu"
 ```
