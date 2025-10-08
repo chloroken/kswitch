@@ -7,7 +7,7 @@ A no-nonsense uber-fast client switcher for KDE Plasma.
 - `git clone https://github.com/chloroken/kswitch`
 
 ### Keybinds
-In Plasmas `System Settings` > `Shortcuts` menu, bind this command to a key:
+In KDE Plasma's `System Settings` > `Shortcuts` menu, bind this command to a key:
 
 `bash -c '~/Documents/kswitch/kswitch "EVE - <charactername>"'`
 
