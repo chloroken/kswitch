@@ -24,15 +24,15 @@ No input delay. No nonsense. Minimizing switches with the speed of non-minimized
 ### Example SWHKD config file:
 ```
 F1
-    bash ~/git/kswitch/switch "EVE - orthoptera"
+    bash ~/git/kswitch/kswitch "EVE - orthoptera"
 F2
-    bash ~/git/kswitch/switch "EVE - huehueahuea"
+    bash ~/git/kswitch/kswitch "EVE - huehueahuea"
 F3
-    bash ~/git/kswitch/switch "EVE - arilus cristatus"
+    bash ~/git/kswitch/kswitch "EVE - arilus cristatus"
 F4
-    bash ~/git/kswitch/switch "EVE - RSS Scanner Probe"
+    bash ~/git/kswitch/kswitch "EVE - RSS Scanner Probe"
 F5
-    bash ~/git/kswitch/switch "EVE - Satorigu"
+    bash ~/git/kswitch/kswitch "EVE - Satorigu"
 ```
 ### To reload hotkeys with SWHKD:
 - `sudo killall swhkd`
