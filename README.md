@@ -29,4 +29,5 @@ F3
 F4
     bash ~/Documents/kswitch/switch "EVE - RSS Scanner Probe"
 F5
-    bash ~/Documents/kswitch/switch "EVE - Satorigu"```
+    bash ~/Documents/kswitch/switch "EVE - Satorigu"
+```
