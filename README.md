@@ -3,7 +3,7 @@
 No input delay. No nonsense. Minimizing switches with the speed of non-minimized switches.
 
 ### Get KSwitch:
-- `cd ~/git/`
+- `cd ~/Documents/`
 - `git clone https://github.com/chloroken/kswitch`
 
 ### Keybinds
