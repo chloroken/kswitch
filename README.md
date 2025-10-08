@@ -19,8 +19,9 @@
 - Add Kswitch's `autostart.sh` to autostarting scripts
 
 ### Example SWHKD config file:
-```F1
-    bash ~Documents/kswitch/switch "EVE - orthoptera"
+```
+F1
+    bash ~/Documents/kswitch/switch "EVE - orthoptera"
 F2
     bash ~/Documents/kswitch/switch "EVE - huehueahuea"
 F3
