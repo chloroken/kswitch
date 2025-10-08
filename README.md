@@ -1,6 +1,6 @@
 # kswitch - KWin-based client switcher for EVE Online
 
-No input delay. No nonsense. Minimizing switches with the speed of non-minimized switches.
+A no-nonsense uber-fast client switcher for KDE Plasma.
 
 ### Get KSwitch:
 - `cd ~/Documents/`
