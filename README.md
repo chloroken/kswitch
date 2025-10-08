@@ -1,4 +1,4 @@
-# kswitch - Native KDE client switching for EVE Online
+# kswitch - KWin-based client switcher for EVE Online
 
 No input delay. No nonsense. Minimizing switches with the speed of non-minimized switches.
 
