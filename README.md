@@ -1,5 +1,7 @@
 # kswitch - Native KDE client switching for EVE Online
 
+No input delay. No nonsense. Minimizing switches with the speed of non-minimized switches.
+
 ### Get KSwitch:
 - `cd ~/git/`
 - `git clone https://github.com/chloroken/kswitch`
