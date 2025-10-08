@@ -11,3 +11,6 @@
 - `swhks &` <-- bind these to autorun
 - `swhkd` <-- bind these to autorun
 - `vim ~/.config/swhkd/swhkdrc` <-- edit your shortcuts
+
+### Get KSwitch:
+- git clone this
