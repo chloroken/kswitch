@@ -34,3 +34,6 @@ F4
 F5
     bash ~/git/kswitch/switch "EVE - Satorigu"
 ```
+### To reload hotkeys with SWHKD:
+- `sudo killall swhkd`
+- `swhkd &`
